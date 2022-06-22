@@ -233,6 +233,15 @@
 .highlight{
     background-color:#f8f8f8
 }
+.logo {
+    border-radius: 50% !important;
+	vertical-align: middle;
+	width: 100% !important;
+	border: 1px solid #d0d7de !important;
+}
+.bluefont {
+	color:#222
+}
 body{
     background-color:#fff;
     padding:50px;
@@ -316,15 +325,7 @@ th{
 img{
     max-width:100%
 }
-.logo {
-    border-radius: 50% !important;
-	vertical-align: middle;
-	width: 100% !important;
-	border: 1px solid #d0d7de !important;
-}
-.bluefont {
-	color:#222
-}
+
 kbd{
     background-color:#fafbfc;
     border:1px solid #c6cbd1;
@@ -412,7 +413,7 @@ footer{
     width:270px;
     float:left;
     position:fixed;
-    bottom:50px;
+    bottom:20px;
     -webkit-font-smoothing:subpixel-antialiased
 }
 @media print, screen and (max-width: 960px){
