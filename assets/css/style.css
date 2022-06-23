@@ -20,6 +20,18 @@
 	url("../fonts/Noto-Sans-700.ttf") format("truetype"),
 	url("../fonts/Noto-Sans-700.svg#NotoSans") format("svg")
 }
+@font-face {
+    font-family: 'Hashtag';
+    src: url("../fonts/Hashtag.eot");
+    src: url("../fonts/Hashtag.eot?#iefix") format('embedded-opentype'),
+        url("../fonts/Hashtag.woff2") format('woff2'),
+        url("../fonts/Hashtag.woff") format('woff'),
+        url("../fonts/Hashtag.ttf") format('truetype'),
+        url("../fonts/Hashtag.svg#Hashtag") format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 .highlight table td{
     padding:5px
 }
@@ -242,7 +254,10 @@
 	color:#222
 }
 .title {
-	
+	font-family:Hashtag
+	font-weight:600
+	font-size:34px
+	letter-spacing:5px
 }
 body{
     background-color:#fff;

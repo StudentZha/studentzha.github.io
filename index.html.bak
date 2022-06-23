@@ -15,7 +15,7 @@
 		<div class="wrapper">
 			<header>
 				<h1>
-					<a href="http://www.char.moe/">
+					<a class="title" href="http://www.char.moe/">
 						Char
 					</a>
 				</h1>
@@ -28,7 +28,7 @@
 					alt="Image" data-canonical-src="https://pic2.zhimg.com/v2-14871668126cf6f7da87cc829c820bf4_xl.jpg?source=32738c0c"
 					style="max-width: 100%;">
 				</a>
-				<p>
+				<p style="margin:20px">
 					Email:&nbsp;
 					<span class="bluefont" title="You can also send an email to honker_1024@163.com">
 						charszha@gmail.com

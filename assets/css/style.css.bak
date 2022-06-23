@@ -235,12 +235,14 @@
 }
 .logo {
     border-radius: 50% !important;
-	vertical-align: middle;
-	width: 100% !important;
+	width: 60% !important;
 	border: 1px solid #d0d7de !important;
 }
 .bluefont {
 	color:#222
+}
+.title {
+	
 }
 body{
     background-color:#fff;
@@ -254,7 +256,10 @@ h1,h2,h3,h4,h5,h6{
     margin:0 0 20px
 }
 p,ul,ol,table,pre,dl{
-    margin:0 0 20px
+	margin-top: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
 }
 h1,h2,h3{
     line-height:1.25
