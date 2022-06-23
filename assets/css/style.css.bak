@@ -254,10 +254,10 @@
 	color:#222
 }
 .title {
-	font-family:Hashtag
-	font-weight:600
-	font-size:34px
-	letter-spacing:5px
+	font-family:Hashtag;
+	font-weight:600;
+	font-size:34px;
+	letter-spacing:5px;
 }
 body{
     background-color:#fff;
